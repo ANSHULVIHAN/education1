@@ -1,0 +1,19 @@
+.practice2-container {
+    background-color: teal;
+    padding: 20px;
+    
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .question-list {
+    list-style-type: decimal;
+    color: whitesmoke;
+    font-size: 19px;
+  }
+  
+  .question-list li {
+    margin-bottom: 10px;
+  }
+  
+  /* Add more CSS styles as needed */
+  
